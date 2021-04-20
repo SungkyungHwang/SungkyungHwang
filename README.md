@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SungkyungHwang
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning R, Python, Linux etc.
+- 📫 sk970626@naver.com
+- My SNS - Insta @yllwbible_97 
